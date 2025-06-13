@@ -11,12 +11,6 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Model weights and runs (can be large, typically not tracked in git)
-runs/
-*.pt
-*.pth
-models/
-
 # Large video and image files
 test_vid/
 Results/
