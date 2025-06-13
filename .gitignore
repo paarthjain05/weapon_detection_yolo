@@ -1,0 +1,36 @@
+# Python virtual environment
+venv/
+.env/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model weights and runs (can be large, typically not tracked in git)
+runs/
+*.pt
+*.pth
+models/
+
+# Large video and image files
+test_vid/
+Results/
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# Miscellaneous
+*.log
+.DS_Store
